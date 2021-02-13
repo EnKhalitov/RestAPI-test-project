@@ -6,14 +6,14 @@
 
 
 
-![Image alt](https://github.com/EnKhalitov/RestAPI-test-project/photo/1.png)
+![Image alt](https://github.com/EnKhalitov/RestAPI-test-project/photo/png/1.png)
 
-![Image alt](https://github.com/EnKhalitov/RestAPI-test-project/photo/2.png)
+![Image alt](https://github.com/EnKhalitov/RestAPI-test-project/photo/png/2.png)
 
-![Image alt](https://github.com/EnKhalitov/RestAPI-test-project/photo/3.png)
+![Image alt](https://github.com/EnKhalitov/RestAPI-test-project/photo/png/3.png)
 
-![Image alt](https://github.com/EnKhalitov/RestAPI-test-project/photo/4.png)
+![Image alt](https://github.com/EnKhalitov/RestAPI-test-project/photo/png/4.png)
 
-![Image alt](https://github.com/EnKhalitov/RestAPI-test-project/photo/5.png)
+![Image alt](https://github.com/EnKhalitov/RestAPI-test-project/photo/png/5.png)
 
-![Image alt](https://github.com/EnKhalitov/RestAPI-test-project/photo/6.png)
+![Image alt](https://github.com/EnKhalitov/RestAPI-test-project/photo/png/6.png)
